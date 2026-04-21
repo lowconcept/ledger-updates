@@ -1,20 +1,30 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>Ledger</title>
-
-    <item>
-      <title>Version 1.5</title>
-      <pubDate>Tue, 21 Apr 2026 18:00:00 +0200</pubDate>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-      <enclosure 
-        url="https://lowconcept.github.io/ledger-updates/releases/Ledger-1.5.zip"
-        length="8504519"
-        type="application/octet-stream"
-        sparkle:edSignature="QXzYjot/sGe5iuGxVxxaGeVGnCjf1lRNdIABaAWG6eKzpsjFlYaZHddRTBfCBrlzwyZSJQuoAumKmpwOUoAAAQ=="/>
-    </item>
-
-  </channel>
+    <channel>
+        <title>Ledger</title>
+        <item>
+            <title>1.5</title>
+            <pubDate>Tue, 21 Apr 2026 18:35:23 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://lowconcept.github.io/ledger-updates/Ledger-1.5.zip" length="4090292" type="application/octet-stream" sparkle:edSignature="56uW2/lyhWrVk5LNCQbDg9Jg5H18ISNNk+cEUYOeePIarwqlj+8QkimZV+ddpt0A1hAZ7cYIfSh/UfC+pMxUAg=="/>
+        </item>
+        <item>
+            <title>1.5</title>
+            <pubDate>Tue, 21 Apr 2026 17:56:00 +0200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://lowconcept.github.io/ledger-updates/Ledger-1.5.zip" length="4084667" type="application/octet-stream" sparkle:edSignature="QXzYjot/sGe5iuGxVxxaGeVGnCjf1lRNdIABaAWG6eKzpsjFlYaZHddRTBfCBrlzwyZSJQuoAumKmpwOUoAAAQ=="/>
+        </item>
+        <item>
+            <title>1.1</title>
+            <pubDate>Tue, 21 Apr 2026 16:16:33 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="Ledger-1.1.zip" length="4079485" type="application/octet-stream"/>
+        </item>
+    </channel>
 </rss>
