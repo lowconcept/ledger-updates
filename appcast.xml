@@ -3,6 +3,17 @@
     <channel>
         <title>Ledger</title>
         <item>
+            <title>1.6</title>
+            <pubDate>Tue, 21 Apr 2026 18:59:10 +0200</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://lowconcept.github.io/ledger-updates/Ledger-1.6.zip" length="4090674" type="application/octet-stream" sparkle:edSignature="L5FpX1ai/v5I/E81rJk+G93Q4TrpF2X3K+7UAVjyy9+roDiq0qDGbdAPpHM5tRQEesdaALtsPJgMyy0WOl5IBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://lowconcept.github.io/ledger-updates/Ledger7-6.delta" sparkle:deltaFrom="6" length="168870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="975840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ksTszcT9bYkA2NIvWr25q9+u7kAD+385pLZD3Y9H6pZ+ZTeSODTThVXrkUnrSZCV/TyNfSXW9GsjOpzKynDdBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5</title>
             <pubDate>Tue, 21 Apr 2026 18:35:23 +0200</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -17,14 +28,6 @@
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
             <enclosure url="https://lowconcept.github.io/ledger-updates/Ledger-1.5.zip" length="4084667" type="application/octet-stream" sparkle:edSignature="QXzYjot/sGe5iuGxVxxaGeVGnCjf1lRNdIABaAWG6eKzpsjFlYaZHddRTBfCBrlzwyZSJQuoAumKmpwOUoAAAQ=="/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Tue, 21 Apr 2026 16:16:33 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="Ledger-1.1.zip" length="4079485" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
