@@ -8,7 +8,7 @@
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://lowconcept.github.io/ledger-updates/Ledger-1.5.zip" length="4084667" type="application/octet-stream" sparkle:edSignature="QXzYjot/sGe5iuGxVxxaGeVGnCjf1lRNdIABaAWG6eKzpsjFlYaZHddRTBfCBrlzwyZSJQuoAumKmpwOUoAAAQ=="/>
+            <enclosure url="url="https://lowconcept.github.io/ledger-updates/releases/Ledger-1.5.zip"" length="4084667" type="application/octet-stream" sparkle:edSignature="QXzYjot/sGe5iuGxVxxaGeVGnCjf1lRNdIABaAWG6eKzpsjFlYaZHddRTBfCBrlzwyZSJQuoAumKmpwOUoAAAQ=="/>
         </item>
         <item>
             <title>1.1</title>
