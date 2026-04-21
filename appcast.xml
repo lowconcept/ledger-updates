@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Ledger</title>
+        <item>
+            <title>1.7</title>
+            <pubDate>Tue, 21 Apr 2026 19:15:40 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://lowconcept.github.io/ledger-updates/Ledger-1.7.zip" length="4090679" type="application/octet-stream" sparkle:edSignature="Xvkr93q0llYP9ZMIzU45HQSMm9wkyoqaSq5vRRQUKYSgSn41GdTSoAbAyoNXJ+W9HzBk4oBVEcnhbefjUotHAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://lowconcept.github.io/ledger-updates/Ledger8-7.delta" sparkle:deltaFrom="7" length="11566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="975840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Gan3h/gW/PCP+1euv+gtyA89fKqEDFkvwwLANgjt3yJUvPTH/xOZ2s7kOEqm2gx6SWc8W4M8UuxBN8bjNzu9CQ=="/>
+                <enclosure url="https://lowconcept.github.io/ledger-updates/Ledger8-6.delta" sparkle:deltaFrom="6" length="169482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="975840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gB51gB1FqvFA8rv9A+Y1/W8yEweOi09a1yD02Zr97LjyHmXe1epIUkxc1wjrat/QKwc5DeLBx7nzIo/NJutKCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.6</title>
+            <pubDate>Tue, 21 Apr 2026 18:59:10 +0200</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://lowconcept.github.io/ledger-updates/Ledger-1.6.zip" length="4090674" type="application/octet-stream" sparkle:edSignature="EPKeKj38q3jdsP+JLHmt1C4wpid3K/PHGposreneNgmsEYhg006yHdHFZJMWedwoWzP6MKWj83r/zr7MVAFNBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://lowconcept.github.io/ledger-updates/Ledger7-6.delta" sparkle:deltaFrom="6" length="168870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="975840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ksTszcT9bYkA2NIvWr25q9+u7kAD+385pLZD3Y9H6pZ+ZTeSODTThVXrkUnrSZCV/TyNfSXW9GsjOpzKynDdBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.5</title>
+            <pubDate>Tue, 21 Apr 2026 18:35:23 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://lowconcept.github.io/ledger-updates/Ledger-1.5.zip" length="4090292" type="application/octet-stream" sparkle:edSignature="56uW2/lyhWrVk5LNCQbDg9Jg5H18ISNNk+cEUYOeePIarwqlj+8QkimZV+ddpt0A1hAZ7cYIfSh/UfC+pMxUAg=="/>
+        </item>
+    </channel>
+</rss>
